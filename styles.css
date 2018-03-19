@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
+body{
+  background:url("https://images.unsplash.com/photo-1500828131278-8de6878641b8?auto=format&fit=crop&w=334&q=80");
+  background-size:cover;
+}
+
+.wrapper{
+  background:#A7FFEB;
+  opacity: 0.6;
+  width:400px;
+  color: blue;
+  padding:20px;
+}
+.btn{
+  width:40px;
+  height:25px;
+  font-family:'Raleway', cursive;
+}
+#quote{
+  color:#4E342E;
+  width:auto;
+  font-family:'Raleway', cursive;
+  font-size:1.5em;
+  font-weight:500;
+  
+
+}
+.big-wrapper{
+  margin:8% auto auto auto;
+  position:relative;
+  display:table;
+}
+.btn{
+  background:blue;
+  color:white;
+  border:none;
+  margin-top:7px;
+}
+.author{
+  float:right;
+  margin-top:30px;
+  
+}
+.fa-quote-right{
+  float:right;
+  margin-bottom:7px;
+}
+span{
+  text-align:center;
+  padding-left:17px;
+}
+.fa-heart{
+  color:red;
+}
+.fa-free-code-camp{
+  color:green;
+}
